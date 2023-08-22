@@ -1,0 +1,283 @@
+.heder{
+    margin-top: 15px;
+    width: 100%;
+    height: 85px;
+    display: flex;
+    flex-direction: row;
+}
+.p{
+    width: 50px;
+    height: 48px;
+    margin-top: 22px;
+    margin-left: 260px;
+}
+.submenu{
+    display: flex;
+    flex-direction: row;
+    width: 998px;
+    margin-top: 10px;
+    margin-left: 112px;
+}
+.submenu p{
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+}
+.submenu p:hover{
+    color: white;
+    background-color: rgb(255, 174, 0);
+    /* width: 50px; */
+    height: 20px;
+    border-radius: 5px;
+}
+.top{
+    background-color: #709DCA;
+    height: 500px;
+    width: 100%;
+}
+.text1{
+    display: flex;
+    flex-direction: column;
+    width: 1294px;
+}
+.text1 p{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-style: italic;
+}
+.pp{
+    font-size: 25px;
+    margin: 0;
+}
+.ppp{
+    margin: 0;
+}
+.ood{
+    margin-top: 100px;
+}
+.inputt{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+}
+.inputt input{
+    padding-left: 40px;
+    margin-left: 10px;
+}
+.pppp{
+    background-image: url(user.png);
+    background-repeat: no-repeat;
+    background-position: 5% 50%;
+    padding-left: 50px;
+    border: none;
+
+}
+.p4{
+    background-color: rgb(255, 145, 0);
+    width: 160px;
+    height: 39px;
+    margin-left: 10px;
+    color: white;
+    border: none;
+}
+.p5{
+    background-image: url(email.png);
+    background-repeat: no-repeat;
+    background-position: 5% 50%;
+    border: none;
+
+}
+.p6{
+    background-image: url(phone.png);
+    background-repeat: no-repeat;
+    background-position: 5% 50%;
+    border: none;
+}
+.laptop{
+    display: flex;
+    position: relative;
+    bottom: 233px;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    height: 390px;
+}
+.p7{
+    width:647px ;
+    height:343px ;
+}
+.kryg div{
+    border: solid gray 2px;
+    border-color: gray;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    
+}
+.kryg{
+    display: flex;
+    flex-direction: row;
+
+}
+.kryg div:hover{
+    border-color: blue;
+    
+}
+.kryg div{
+    margin-left: 3px;
+}
+.textp2{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
+    margin: 0;
+}
+.textp3{
+    font-weight: bold;
+    font-style: italic;
+    margin: 0;
+}
+.textpp{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: -180px;
+}
+.center{
+    width: 100%;
+    height: 770px;
+}
+.info{
+    width: 80%;
+    margin-left: 130px;
+    margin-top: 30px;
+    display: flex;
+}
+.ppp8{
+    height: 180px;
+    width: 460px;
+    display: flex;
+}
+.ppp8 img{
+    width: 59px;
+    height: 48px;
+    display: flex;
+}
+.info2{
+    display: flex;
+    flex-direction: column;
+}
+.ppp8 h2{
+    margin-top: 0;
+}
+.text11{
+    margin-left: 10px;
+}
+.info3{
+    display: flex;
+    margin-left: 115px;
+    flex-direction: column;
+}
+.bottom{
+    width: 95%;
+    background-color: #FFC155;
+    margin-left: 30px;
+    height: 700px;
+    margin-top: 70px;
+    padding-top:100px ;
+}
+.happy{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-style: italic;
+    margin: 0;
+}
+.happy2{
+    color: white;
+    font-style: italic;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+
+}
+.happyowner{
+    margin-top: 50px;
+}
+.image{
+    display: flex;
+    flex-direction: row;
+    height: 579px;
+}
+.eee1{
+    background-color: white;
+    width: 550px;
+    height: 210px;
+    display: flex;
+    margin-top: 50px;
+}
+.left{
+    margin-left:55px;
+    width: 550px;
+    display: flex;
+    flex-direction: column;
+}
+.eee2{
+    width: 121px;
+    height: 121px;
+    margin-left: 33px;
+    display: flex;
+    margin-top: 30px;
+}
+.eee3{
+    margin-left: 29px;
+    margin-top: 18px;
+    color: grey;
+    padding: 3px;
+}
+.eee4{
+    color: grey;
+    display: inline-block;
+}
+.eee4::before{
+    color: red;
+    display: inline-block;
+    content: "DARWIN MICHLE,";
+}
+.eee5::before{
+    color: red;
+    display: inline-block;
+    content: "CLIPS ARTER,";
+}
+.eee6::before{
+    color: red;
+    display: inline-block;
+    content: "MADAM EUSABATH,";
+}
+.right{
+    display: flex;
+    margin-left: 30px;
+    flex-direction: column;
+}
+.eee7::before{
+    color: red;
+    display: inline-block;
+    content: "ZAM CRISTAFR,";
+}
+.footer{
+    background-color: #709DCA;
+    width: 100%;
+    height: 50px;
+}
+.footer p{
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px
+}
